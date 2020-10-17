@@ -1,0 +1,40 @@
+\begin{figure}[t!]
+\centering
+\includegraphics[scale=0.8]{bmstu}
+\end{figure}
+
+\pagestyle{empty}
+
+\begin{flushleft}
+	ФАКУЛЬТЕТ Информатика и системы управления
+	\vspace{2mm}
+	\newline КАФЕДРА Программное обеспечение ЭВМ и информационные технологии
+	\vspace{20mm}
+\end{flushleft}
+
+
+\centering {\LARGE Отчет по лабораторной работе № 1}
+\vspace{3mm}
+
+\centering {\LARGE По курсу "Анализ Алгоритмов"
+\vspace{10mm}
+
+
+\centering \bf Расстояние Левенштейна}
+\vspace{40mm}
+
+
+\begin{flushright}
+  {\large	Студент:\\ Турсунов Жасурбек Рустамович \\ Группа: ИУ7-56Б
+	\vspace{5mm}
+	\\Преподователи: \\ Волкова Лилия Леонидовна \\ Строганов Юрий Владимирович}
+\end{flushright}
+
+\begin{center}
+	\vspace{40mm}
+	{\large Москва, 2020 г.}
+\end{center}
+
+\newpage
+\tableofcontents 
+\newpage
