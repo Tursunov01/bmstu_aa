@@ -1,0 +1,79 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{sortIntro}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f367aa8b66d2aca53e6a38a6f40a4828}{%
+           family={Sanatan},
+           familyi={S\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f367aa8b66d2aca53e6a38a6f40a4828}
+      \strng{fullhash}{f367aa8b66d2aca53e6a38a6f40a4828}
+      \strng{bibnamehash}{f367aa8b66d2aca53e6a38a6f40a4828}
+      \strng{authorbibnamehash}{f367aa8b66d2aca53e6a38a6f40a4828}
+      \strng{authornamehash}{f367aa8b66d2aca53e6a38a6f40a4828}
+      \strng{authorfullhash}{f367aa8b66d2aca53e6a38a6f40a4828}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 10.11.2020)}
+      \field{title}{Sorting Algorithms in Python {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://stackabuse.com/sorting-algorithms-in-python/
+      \endverb
+      \verb{url}
+      \verb https://stackabuse.com/sorting-algorithms-in-python/
+      \endverb
+      \keyw{sorting}
+    \endentry
+    \entry{yandexSortAlg}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0c0a230358d00f0fcf81c28d23bf6e8c}{%
+           family={Yandex},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
+      \strng{fullhash}{0c0a230358d00f0fcf81c28d23bf6e8c}
+      \strng{bibnamehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
+      \strng{authorbibnamehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
+      \strng{authornamehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
+      \strng{authorfullhash}{0c0a230358d00f0fcf81c28d23bf6e8c}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 10.11.2020)}
+      \field{title}{Основные виды сортировок и примеры их реализации{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://academy.yandex.ru/posts/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii
+      \endverb
+      \verb{url}
+      \verb https://academy.yandex.ru/posts/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii
+      \endverb
+      \keyw{sorting,yandex}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,109 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{mul}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3217008d641766b4df62c8e143f456c9}{%
+           family={Игорь},
+           familyi={И\bibinitperiod},
+           given={Ермолаев},
+           giveni={Е\bibinitperiod}}}%
+      }
+      \strng{namehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{fullhash}{3217008d641766b4df62c8e143f456c9}
+      \strng{bibnamehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{authorbibnamehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{authornamehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{authorfullhash}{3217008d641766b4df62c8e143f456c9}
+      \field{sortinit}{И}
+      \field{sortinithash}{6a65d08ca80cef7969cabe6a582e089f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 20.10.2020)}
+      \field{title}{Умножение матриц: эффективная реализация шаг за шагом {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://habr.com/ru/post/359272/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/post/359272/
+      \endverb
+      \keyw{multiply}
+    \endentry
+    \entry{paral}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ff4afa814ce28afe463ce9c308332c04}{%
+           family={Интуит},
+           familyi={И\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{fullhash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{bibnamehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{authorbibnamehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{authornamehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{authorfullhash}{ff4afa814ce28afe463ce9c308332c04}
+      \field{sortinit}{И}
+      \field{sortinithash}{6a65d08ca80cef7969cabe6a582e089f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 22.11.2020)}
+      \field{title}{Введение в технологии параллельного программирования{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://intuit.ru/studies/courses/4447/983/lecture/14925
+      \endverb
+      \verb{url}
+      \verb https://intuit.ru/studies/courses/4447/983/lecture/14925
+      \endverb
+      \keyw{python,threads,doc}
+    \endentry
+    \entry{doc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=78ffbbe9f21148d0df11353d3b02d830}{%
+           family={Россум},
+           familyi={Р\bibinitperiod},
+           given={Гвидо},
+           giveni={Г\bibinitperiod},
+           prefix={ван},
+           prefixi={в\bibinitperiod}}}%
+      }
+      \strng{namehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{fullhash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{bibnamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authorbibnamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authornamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authorfullhash}{78ffbbe9f21148d0df11353d3b02d830}
+      \field{sortinit}{Р}
+      \field{sortinithash}{0259df1703d0d2c761f62621ecb6c6be}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 22.11.2020)}
+      \field{title}{Python documentation{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://docs.python.org/3/library/concurrent.futures.html
+      \endverb
+      \verb{url}
+      \verb https://docs.python.org/3/library/concurrent.futures.html
+      \endverb
+      \keyw{python,threads,doc}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

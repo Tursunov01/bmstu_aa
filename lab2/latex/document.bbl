@@ -1,0 +1,79 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{mulAlg}{online}{}
+      \name{author}{1}{}{%
+        {{hash=853138c13e69c4d365868a8a07a01c1b}{%
+           family={algolib@narod.ru},
+           familyi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{853138c13e69c4d365868a8a07a01c1b}
+      \strng{fullhash}{853138c13e69c4d365868a8a07a01c1b}
+      \strng{bibnamehash}{853138c13e69c4d365868a8a07a01c1b}
+      \strng{authorbibnamehash}{853138c13e69c4d365868a8a07a01c1b}
+      \strng{authornamehash}{853138c13e69c4d365868a8a07a01c1b}
+      \strng{authorfullhash}{853138c13e69c4d365868a8a07a01c1b}
+      \field{sortinit}{a}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 18.10.2020)}
+      \field{title}{Основные алгоритмы умножения матриц{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb http://www.algolib.narod.ru/Math/Matrix.html
+      \endverb
+      \verb{url}
+      \verb http://www.algolib.narod.ru/Math/Matrix.html
+      \endverb
+      \keyw{algorithms,vinograd}
+    \endentry
+    \entry{mul}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3217008d641766b4df62c8e143f456c9}{%
+           family={Игорь},
+           familyi={И\bibinitperiod},
+           given={Ермолаев},
+           giveni={Е\bibinitperiod}}}%
+      }
+      \strng{namehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{fullhash}{3217008d641766b4df62c8e143f456c9}
+      \strng{bibnamehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{authorbibnamehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{authornamehash}{3217008d641766b4df62c8e143f456c9}
+      \strng{authorfullhash}{3217008d641766b4df62c8e143f456c9}
+      \field{sortinit}{И}
+      \field{sortinithash}{6a65d08ca80cef7969cabe6a582e089f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 20.10.2020)}
+      \field{title}{Умножение матриц: эффективная реализация шаг за шагом {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://habr.com/ru/post/359272/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/post/359272/
+      \endverb
+      \keyw{multiply}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
