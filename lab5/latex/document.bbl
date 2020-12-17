@@ -1,0 +1,135 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{geek}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6ccad7376e2f20d2fe86f03e03dbdd2d}{%
+           family={Beazly},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ccad7376e2f20d2fe86f03e03dbdd2d}
+      \strng{fullhash}{6ccad7376e2f20d2fe86f03e03dbdd2d}
+      \strng{bibnamehash}{6ccad7376e2f20d2fe86f03e03dbdd2d}
+      \strng{authorbibnamehash}{6ccad7376e2f20d2fe86f03e03dbdd2d}
+      \strng{authornamehash}{6ccad7376e2f20d2fe86f03e03dbdd2d}
+      \strng{authorfullhash}{6ccad7376e2f20d2fe86f03e03dbdd2d}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 27.11.2020)}
+      \field{title}{Developing a computational pipeline using the asyncio module in Python3{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb http://deklund.com/blog/2015/11/22/developing-a-computational-pipeline-using-the-asyncio-module-in-python-3
+      \endverb
+      \verb{url}
+      \verb http://deklund.com/blog/2015/11/22/developing-a-computational-pipeline-using-the-asyncio-module-in-python-3
+      \endverb
+      \keyw{python,threads}
+    \endentry
+    \entry{wiki}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 27.11.2020)}
+      \field{title}{Конвейерное производство {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://ru.wikipedia.org/wiki/Конвейерное_производство#
+      \endverb
+      \verb{url}
+      \verb https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE#
+      \endverb
+      \keyw{wiki}
+    \endentry
+    \entry{paral}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ff4afa814ce28afe463ce9c308332c04}{%
+           family={Интуит},
+           familyi={И\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{fullhash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{bibnamehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{authorbibnamehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{authornamehash}{ff4afa814ce28afe463ce9c308332c04}
+      \strng{authorfullhash}{ff4afa814ce28afe463ce9c308332c04}
+      \field{sortinit}{И}
+      \field{sortinithash}{6a65d08ca80cef7969cabe6a582e089f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 22.11.2020)}
+      \field{title}{Введение в технологии параллельного программирования{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://intuit.ru/studies/courses/4447/983/lecture/14925
+      \endverb
+      \verb{url}
+      \verb https://intuit.ru/studies/courses/4447/983/lecture/14925
+      \endverb
+      \keyw{python,threads,doc}
+    \endentry
+    \entry{doc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=78ffbbe9f21148d0df11353d3b02d830}{%
+           family={Россум},
+           familyi={Р\bibinitperiod},
+           given={Гвидо},
+           giveni={Г\bibinitperiod},
+           prefix={ван},
+           prefixi={в\bibinitperiod}}}%
+      }
+      \strng{namehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{fullhash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{bibnamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authorbibnamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authornamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authorfullhash}{78ffbbe9f21148d0df11353d3b02d830}
+      \field{sortinit}{Р}
+      \field{sortinithash}{0259df1703d0d2c761f62621ecb6c6be}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 22.11.2020)}
+      \field{title}{Python documentation{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://docs.python.org/3/library/concurrent.futures.html
+      \endverb
+      \verb{url}
+      \verb https://docs.python.org/3/library/concurrent.futures.html
+      \endverb
+      \keyw{python,threads,doc}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
