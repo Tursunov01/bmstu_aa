@@ -1,0 +1,109 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{dict}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3d801da09e7d82668e226799d9db91dc}{%
+           family={Александр},
+           familyi={А\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{fullhash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{bibnamehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{authorbibnamehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{authornamehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{authorfullhash}{3d801da09e7d82668e226799d9db91dc}
+      \field{sortinit}{А}
+      \field{sortinithash}{bb519958f361ad3b75b2e84514e1e16a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 20.12.2020)}
+      \field{title}{Словари в Python 3 — основные методы и функции {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://pythonru.com/osnovy/python-dict
+      \endverb
+      \verb{url}
+      \verb https://pythonru.com/osnovy/python-dict
+      \endverb
+      \keyw{wiki}
+    \endentry
+    \entry{bin}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1ca4ecae7c9ba4db7fb808b03de4ba9d}{%
+           family={Линуксоида},
+           familyi={Л\bibinitperiod},
+           given={Лаборатория},
+           giveni={Л\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{fullhash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{bibnamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{authorbibnamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{authornamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{authorfullhash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \field{sortinit}{Л}
+      \field{sortinithash}{2d88ac4286a268dccd70f1a45cff6ef2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 20.12.2020)}
+      \field{title}{Двоичный поиск элемента{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://younglinux.info/algorithm/dichotomy
+      \endverb
+      \verb{url}
+      \verb https://younglinux.info/algorithm/dichotomy
+      \endverb
+      \keyw{python}
+    \endentry
+    \entry{doc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=78ffbbe9f21148d0df11353d3b02d830}{%
+           family={Россум},
+           familyi={Р\bibinitperiod},
+           given={Гвидо},
+           giveni={Г\bibinitperiod},
+           prefix={ван},
+           prefixi={в\bibinitperiod}}}%
+      }
+      \strng{namehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{fullhash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{bibnamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authorbibnamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authornamehash}{78ffbbe9f21148d0df11353d3b02d830}
+      \strng{authorfullhash}{78ffbbe9f21148d0df11353d3b02d830}
+      \field{sortinit}{Р}
+      \field{sortinithash}{0259df1703d0d2c761f62621ecb6c6be}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(дата обращения: 22.11.2020)}
+      \field{title}{Python documentation{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \verb{urlraw}
+      \verb https://docs.python.org/3/library/concurrent.futures.html
+      \endverb
+      \verb{url}
+      \verb https://docs.python.org/3/library/concurrent.futures.html
+      \endverb
+      \keyw{python,threads,doc}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

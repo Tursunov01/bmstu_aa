@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.14)  18 DEC 2020 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.14)  23 DEC 2020 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -586,27 +586,6 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (c:/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-(c:/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
-
-(c:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-\CenteringLeftskip=\skip71
-\RaggedLeftLeftskip=\skip72
-\RaggedRightLeftskip=\skip73
-\CenteringRightskip=\skip74
-\RaggedLeftRightskip=\skip75
-\RaggedRightRightskip=\skip76
-\CenteringParfillskip=\skip77
-\RaggedLeftParfillskip=\skip78
-\RaggedRightParfillskip=\skip79
-\JustifyingParfillskip=\skip80
-\CenteringParindent=\skip81
-\RaggedLeftParindent=\skip82
-\RaggedRightParindent=\skip83
-\JustifyingParindent=\skip84
-)
 (c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count381
 \lst@gtempboxa=\box48
@@ -640,53 +619,119 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen154
+))
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count389
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count390
+\leftroot@=\count391
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count392
+\DOTSCASE@=\count393
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count394
+\c@MaxMatrixCols=\count395
+\dotsspace@=\muskip21
+\c@parentequation=\count396
+\dspbrk@lvl=\count397
+\tag@help=\toks21
+\row@=\count398
+\column@=\count399
+\maxfields@=\count400
+\andhelp@=\toks22
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks23
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count389
-\@quotereset=\count390
-(./document.aux
-
-LaTeX Warning: Label `fig:ant' multiply defined.
-
-)
+\@quotelevel=\count401
+\@quotereset=\count402
+(./document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Info: Redefining \th on input line 19.
- (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \th on input line 18.
+
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count391
-\scratchdimen=\dimen154
-\scratchbox=\box50
-\nofMPsegments=\count392
-\nofMParguments=\count393
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count394
-\MPscratchDim=\dimen155
-\MPnumerator=\count395
-\makeMPintoPDFobject=\count396
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count403
+\scratchdimen=\dimen163
+\scratchbox=\box52
+\nofMPsegments=\count404
+\nofMParguments=\count405
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count406
+\MPscratchDim=\dimen164
+\MPnumerator=\count407
+\makeMPintoPDFobject=\count408
+\everyMPtoPDFconversion=\toks26
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(c:/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -745,69 +790,61 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
  (./document.bbl)
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
- ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 19.
-\c@lstlisting=\count397
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
+\c@lstlisting=\count409
 <bmstu.png, id=1, 558.888pt x 137.91525pt>
 File: bmstu.png Graphic file (type png)
 <use bmstu.png>
-Package pdftex.def Info: bmstu.png  used on input line 25.
+Package pdftex.def Info: bmstu.png  used on input line 24.
 (pdftex.def)             Requested size: 447.111pt x 110.33234pt.
 
-Overfull \hbox (14.62917pt too wide) in paragraph at lines 25--26
+Overfull \hbox (14.62917pt too wide) in paragraph at lines 24--25
  [][] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 32.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
@@ -822,217 +859,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
 ] [3
 
-] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-
+]
+Overfull \hbox (4.36385pt too wide) in paragraph at lines 111--112
+|  \T2A/cmr/m/n/12 Сло-варь, ре-а-ли-зо-ван-ный в дан-ной ра-бо-те, име-ет вид 
+$[]$,
  []
 
+[4] [5]
+<full.png, id=38, 3954.775pt x 5420.25pt>
+File: full.png Graphic file (type png)
+<use full.png>
+Package pdftex.def Info: full.png  used on input line 124.
+(pdftex.def)             Requested size: 336.18161pt x 460.75652pt.
+ [6 <./full.png>]
+<bin.png, id=44, 6054.62pt x 8309.0425pt>
+File: bin.png Graphic file (type png)
+<use bin.png>
+Package pdftex.def Info: bin.png  used on input line 130.
+(pdftex.def)             Requested size: 423.86671pt x 581.69241pt.
+ [7
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--118
+ <./bin.png>]
+<combo.png, id=49, 4324.155pt x 5179.35pt>
+File: combo.png Graphic file (type png)
+<use combo.png>
+Package pdftex.def Info: combo.png  used on input line 136.
+(pdftex.def)             Requested size: 302.72179pt x 362.59155pt.
+ [8
 
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-
- []
-
-! Undefined control sequence.
-l.138 	РіРґРµ \quad$ \rho _{i,j}$ - \text
-                                         {РґРѕР»СЏ С„РµСЂРѕРјРѕРЅР°, РєРѕС‚Р...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.140 	$\tau _{i,j}$ - \text
-                            {РєРѕР»РёС‡РµСЃС‚РІРѕ С„РµСЂРѕРјРѕРЅР° РЅР° РґСѓ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.142 	$\Delta \tau _{i,j}$ - \text
-                                   {РєРѕР»РёС‡РµСЃС‚РІРѕ РѕС‚Р»РѕР¶РµРЅРЅРѕР...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (36.0941pt too wide) in paragraph at lines 146--147
-\T2A/cmr/m/n/12 ал-го-рит-ма каж-дый му-ра-вей со-вер-ша-ет-пол-ный марш-рут ко
-м-ми-во-я-же-ра.Положительная
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-
-Overfull \hbox (22.88264pt too wide) in paragraph at lines 156--157
-[]\T2A/cmr/m/n/12 4. На этом ос-но-ва-нии мы мо-жем сфор-му-ли-ро-вать вероятно
-стно-пропорциональное
- []
-
-! Misplaced alignment tab character &.
-l.161 ...elta \tau _{i,j}^k={\begin{cases}Q/L_{k}&
-                                                   {\mbox{Р•СЃР»Рё k-С‹Р№ Рј...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.161 ...Р№ РїСЂРѕС€РµР» РїРѕ СЂРµР±СЂСѓ ij;}}\\0&
-                                                  {\mbox{РРЅР°С‡Рµ}}\end{ca...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
-
- []
-
-[9]
-<Ant.png, id=51, 308.15125pt x 683.55376pt>
-File: Ant.png Graphic file (type png)
-<use Ant.png>
-Package pdftex.def Info: Ant.png  used on input line 191.
-(pdftex.def)             Requested size: 215.70439pt x 478.48438pt.
- [10 <./Ant.png>]
-<a.png, id=56, 517.935pt x 297.11pt>
-File: a.png Graphic file (type png)
-<use a.png>
-Package pdftex.def Info: a.png  used on input line 211.
-(pdftex.def)             Requested size: 362.55202pt x 207.97557pt.
-
-Overfull \hbox (1.50528pt too wide) in paragraph at lines 216--217
-\T2A/cmr/m/n/12 го-по-точ-ное про-грам-ми-ро-ва-ние бы-ло ре-а-ли-зо-ва-но с по
--мо-щью ThreadPoolExecutor.
- []
-
-[11 <./a.png>] (c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+ <./combo.png>] [9]
+(c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-248.
+184.
 
 (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Overfull \hbox (52.50444pt too wide) in paragraph at lines 274--275
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][] 
+) [10
+
+] [11
+
+]
+<r.png, id=65, 427.5975pt x 130.98938pt>
+File: r.png Graphic file (type png)
+<use r.png>
+Package pdftex.def Info: r.png  used on input line 265.
+(pdftex.def)             Requested size: 384.83418pt x 117.88933pt.
+ [12
+
+ <./r.png>] [13
+
+] [14
+
+]
+Overfull \hbox (1.3233pt too wide) in paragraph at lines 304--304
+[]\T2A/cmr/m/n/12 Лаборатория Ли-нук-со-и-да. \T2A/cmr/m/it/12 Дво-ич-ный по-ис
+к эле-мен-та[ЭЛ. РЕ-СУРС] Ре-жим
  []
 
-
-Overfull \hbox (52.50444pt too wide) in paragraph at lines 275--276
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][] 
- []
-
-[12
-
-] [13] [14]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
-
- []
-
-<chart1.png, id=76, 613.39163pt x 468.85162pt>
-File: chart1.png Graphic file (type png)
-<use chart1.png>
-Package pdftex.def Info: chart1.png  used on input line 372.
-(pdftex.def)             Requested size: 368.03781pt x 281.31314pt.
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 376.
-
-Missing character: There is no и in font cmr12!
-[16
-
-
- <./chart1.png>]
-<chart2.png, id=80, 650.73112pt x 518.23613pt>
-File: chart2.png Graphic file (type png)
-<use chart2.png>
-Package pdftex.def Info: chart2.png  used on input line 380.
-(pdftex.def)             Requested size: 390.44168pt x 310.94408pt.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 387.
-
-Missing character: There is no и in font cmr12!
-[17
-
- <./chart2.png>] [18] [19
+[15
 
 ] (./document.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                document
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12875 strings out of 479917
- 218966 string characters out of 5886664
- 1002477 words of memory out of 5000000
- 29303 multiletter control sequences out of 15000+600000
- 548534 words of font info for 53 fonts, out of 8000000 for 9000
+ 13437 strings out of 479917
+ 225114 string characters out of 5886664
+ 1001087 words of memory out of 5000000
+ 29847 multiletter control sequences out of 15000+600000
+ 548871 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,67p,1803b,1813s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
-live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/t
-exlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/202
-0/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-di
-st/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/t
-ype1/public/cm-super/sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
-c/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super
-/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.
-pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/te
-xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2020/texmf-dis
-t/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on document.pdf (20 pages, 1992223 bytes).
+ 64i,9n,70p,1160b,1714s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/te
+xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020
+/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dis
+t/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/ty
+pe1/public/cm-super/sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
+/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
+sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.p
+fb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2020/
+texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2020/texmf-dist
+/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on document.pdf (16 pages, 1881080 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 143 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
