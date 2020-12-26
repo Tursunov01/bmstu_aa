@@ -19,59 +19,59 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{paral}{online}{}
+    \entry{dict}{online}{}
       \name{author}{1}{}{%
-        {{hash=ff4afa814ce28afe463ce9c308332c04}{%
-           family={Интуит},
-           familyi={И\bibinitperiod}}}%
+        {{hash=3d801da09e7d82668e226799d9db91dc}{%
+           family={Александр},
+           familyi={А\bibinitperiod}}}%
       }
-      \strng{namehash}{ff4afa814ce28afe463ce9c308332c04}
-      \strng{fullhash}{ff4afa814ce28afe463ce9c308332c04}
-      \strng{bibnamehash}{ff4afa814ce28afe463ce9c308332c04}
-      \strng{authorbibnamehash}{ff4afa814ce28afe463ce9c308332c04}
-      \strng{authornamehash}{ff4afa814ce28afe463ce9c308332c04}
-      \strng{authorfullhash}{ff4afa814ce28afe463ce9c308332c04}
-      \field{sortinit}{И}
-      \field{sortinithash}{6a65d08ca80cef7969cabe6a582e089f}
+      \strng{namehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{fullhash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{bibnamehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{authorbibnamehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{authornamehash}{3d801da09e7d82668e226799d9db91dc}
+      \strng{authorfullhash}{3d801da09e7d82668e226799d9db91dc}
+      \field{sortinit}{А}
+      \field{sortinithash}{bb519958f361ad3b75b2e84514e1e16a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{(дата обращения: 22.11.2020)}
-      \field{title}{Введение в технологии параллельного программирования{[ЭЛ. РЕСУРС] Режим доступа:}}
+      \field{addendum}{(дата обращения: 20.12.2020)}
+      \field{title}{Словари в Python 3 — основные методы и функции {[ЭЛ. РЕСУРС] Режим доступа:}}
       \verb{urlraw}
-      \verb https://intuit.ru/studies/courses/4447/983/lecture/14925
+      \verb https://pythonru.com/osnovy/python-dict
       \endverb
       \verb{url}
-      \verb https://intuit.ru/studies/courses/4447/983/lecture/14925
+      \verb https://pythonru.com/osnovy/python-dict
       \endverb
-      \keyw{python,threads,doc}
+      \keyw{wiki}
     \endentry
-    \entry{commi2}{online}{}
+    \entry{bin}{online}{}
       \name{author}{1}{}{%
-        {{hash=2ab55db3a22764644707221cff749523}{%
-           family={Петров},
-           familyi={П\bibinitperiod},
-           given={Валентин},
-           giveni={В\bibinitperiod}}}%
+        {{hash=1ca4ecae7c9ba4db7fb808b03de4ba9d}{%
+           family={Линуксоида},
+           familyi={Л\bibinitperiod},
+           given={Лаборатория},
+           giveni={Л\bibinitperiod}}}%
       }
-      \strng{namehash}{2ab55db3a22764644707221cff749523}
-      \strng{fullhash}{2ab55db3a22764644707221cff749523}
-      \strng{bibnamehash}{2ab55db3a22764644707221cff749523}
-      \strng{authorbibnamehash}{2ab55db3a22764644707221cff749523}
-      \strng{authornamehash}{2ab55db3a22764644707221cff749523}
-      \strng{authorfullhash}{2ab55db3a22764644707221cff749523}
-      \field{sortinit}{П}
-      \field{sortinithash}{4153c4d481e6522f99d0aa03de37fd7f}
+      \strng{namehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{fullhash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{bibnamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{authorbibnamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{authornamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \strng{authorfullhash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
+      \field{sortinit}{Л}
+      \field{sortinithash}{2d88ac4286a268dccd70f1a45cff6ef2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{(дата обращения: 27.11.2020)}
-      \field{title}{КЗадача коммивояжера {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \field{addendum}{(дата обращения: 20.12.2020)}
+      \field{title}{Двоичный поиск элемента{[ЭЛ. РЕСУРС] Режим доступа:}}
       \verb{urlraw}
-      \verb http://mech.math.msu.su/~shvetz/54/inf/perl-problems/chCommisVoyageur.xhtml
+      \verb https://younglinux.info/algorithm/dichotomy
       \endverb
       \verb{url}
-      \verb http://mech.math.msu.su/~shvetz/54/inf/perl-problems/chCommisVoyageur.xhtml
+      \verb https://younglinux.info/algorithm/dichotomy
       \endverb
-      \keyw{commi2}
+      \keyw{python}
     \endentry
     \entry{doc}{online}{}
       \name{author}{1}{}{%

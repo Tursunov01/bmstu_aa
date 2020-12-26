@@ -1,0 +1,16 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Решение}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Листинг кода}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Тестирование функций}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Примеры работы}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Анализ полученных данных}{5}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Вывод}{6}{}%
