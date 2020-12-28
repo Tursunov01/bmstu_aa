@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.14)  26 DEC 2020 23:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.14)  28 DEC 2020 05:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,74 +855,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
- [1]
-(c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [2
+ [1] [2
+
+] [3
 
 ]
+<1.png, id=25, 4507.84125pt x 8180.5625pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 95.
+(pdftex.def)             Requested size: 270.4588pt x 490.81258pt.
+ [4 <./1.png>]
+<2.png, id=30, 5179.35pt x 8112.3075pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 102.
+(pdftex.def)             Requested size: 310.74759pt x 486.71745pt.
+ [5
+
+ <./2.png>]
+(c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-113.
+146.
 
 (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [3]
-<tests.png, id=29, 354.123pt x 375.20175pt>
-File: tests.png Graphic file (type png)
-<use tests.png>
-Package pdftex.def Info: tests.png  used on input line 144.
-(pdftex.def)             Requested size: 318.70773pt x 337.67844pt.
- [4
+) [6
 
- <./tests.png>]
-<res.png, id=33, 247.22362pt x 120.14888pt>
-File: res.png Graphic file (type png)
-<use res.png>
-Package pdftex.def Info: res.png  used on input line 156.
-(pdftex.def)             Requested size: 346.11069pt x 168.20726pt.
-<chart.png, id=34, 240.9pt x 120.45pt>
-File: chart.png Graphic file (type png)
-<use chart.png>
-Package pdftex.def Info: chart.png  used on input line 163.
-(pdftex.def)             Requested size: 409.52823pt x 204.7641pt.
- [5
+] [7] [8] [9
 
- <./res.png> <./chart.png>] [6] (./document.aux)
+]
+<r1.png, id=50, 309.85762pt x 39.7485pt>
+File: r1.png Graphic file (type png)
+<use r1.png>
+Package pdftex.def Info: r1.png  used on input line 269.
+(pdftex.def)             Requested size: 278.86926pt x 35.77332pt.
+<r2.png, id=51, 285.76762pt x 36.135pt>
+File: r2.png Graphic file (type png)
+<use r2.png>
+Package pdftex.def Info: r2.png  used on input line 273.
+(pdftex.def)             Requested size: 257.18846pt x 32.52116pt.
 
-LaTeX Warning: There were undefined references.
+[10
 
+ <./r1.png> <./r2.png>] [11
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                document
-(biblatex)                and rerun LaTeX afterwards.
+] [12] [13
 
+] [14
+
+] (./document.aux)
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13226 strings out of 479917
- 221233 string characters out of 5886664
- 997008 words of memory out of 5000000
- 29641 multiletter control sequences out of 15000+600000
- 546400 words of font info for 52 fonts, out of 8000000 for 9000
+ 13470 strings out of 479917
+ 225292 string characters out of 5886664
+ 1016050 words of memory out of 5000000
+ 29879 multiletter control sequences out of 15000+600000
+ 548871 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,8n,70p,741b,1714s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,9n,70p,1739b,1821s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
-cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
-fbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pf
-b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texl
-ive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/t
-exmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2020/texmf-dist/
-fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on document.pdf (7 pages, 717187 bytes).
+live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/
+texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist
+/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
+cm-super/sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
+frm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
+b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
+ive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2020/t
+exmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2020/texmf-dist/
+fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2020/texmf-dist/fonts/type
+1/public/cm-super/sftt1200.pfb>
+Output written on document.pdf (15 pages, 1450046 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,36 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Постановка задачи}{2}{}%
+\contentsline {section}{Введение}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Решение}{2}{}%
+\contentsline {section}{\numberline {1}Аналитическая часть}{3}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Листинг кода}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Алгоритм обратной польской записи}{3}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Тестирование функций}{3}{}%
+\contentsline {section}{\numberline {2}Конструкторская часть}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Примеры работы}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Схема решения задачи}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Анализ полученных данных}{5}{}%
+\contentsline {section}{\numberline {3}Технологическая часть}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Вывод}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Требования к программному обеспечению}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Средства реализации}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Листинг кода}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Тестирование функций}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Исследовательская часть }{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Системные характеристики}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Пример работы}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Сравнительный анализ на основе замеров времени работы программы}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Вывод}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Заключение}{13}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Список литературы}{14}{}%

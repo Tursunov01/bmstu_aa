@@ -19,59 +19,31 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{dict}{online}{}
+    \entry{opz}{online}{}
       \name{author}{1}{}{%
-        {{hash=3d801da09e7d82668e226799d9db91dc}{%
-           family={Александр},
-           familyi={А\bibinitperiod}}}%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{3d801da09e7d82668e226799d9db91dc}
-      \strng{fullhash}{3d801da09e7d82668e226799d9db91dc}
-      \strng{bibnamehash}{3d801da09e7d82668e226799d9db91dc}
-      \strng{authorbibnamehash}{3d801da09e7d82668e226799d9db91dc}
-      \strng{authornamehash}{3d801da09e7d82668e226799d9db91dc}
-      \strng{authorfullhash}{3d801da09e7d82668e226799d9db91dc}
-      \field{sortinit}{А}
-      \field{sortinithash}{bb519958f361ad3b75b2e84514e1e16a}
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{(дата обращения: 20.12.2020)}
-      \field{title}{Словари в Python 3 — основные методы и функции {[ЭЛ. РЕСУРС] Режим доступа:}}
+      \field{addendum}{(дата обращения: 27.12.2020)}
+      \field{title}{Обратная польская запись{[ЭЛ. РЕСУРС] Режим доступа:}}
       \verb{urlraw}
-      \verb https://pythonru.com/osnovy/python-dict
+      \verb https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C
       \endverb
       \verb{url}
-      \verb https://pythonru.com/osnovy/python-dict
+      \verb https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C
       \endverb
       \keyw{wiki}
-    \endentry
-    \entry{bin}{online}{}
-      \name{author}{1}{}{%
-        {{hash=1ca4ecae7c9ba4db7fb808b03de4ba9d}{%
-           family={Линуксоида},
-           familyi={Л\bibinitperiod},
-           given={Лаборатория},
-           giveni={Л\bibinitperiod}}}%
-      }
-      \strng{namehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
-      \strng{fullhash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
-      \strng{bibnamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
-      \strng{authorbibnamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
-      \strng{authornamehash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
-      \strng{authorfullhash}{1ca4ecae7c9ba4db7fb808b03de4ba9d}
-      \field{sortinit}{Л}
-      \field{sortinithash}{2d88ac4286a268dccd70f1a45cff6ef2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{(дата обращения: 20.12.2020)}
-      \field{title}{Двоичный поиск элемента{[ЭЛ. РЕСУРС] Режим доступа:}}
-      \verb{urlraw}
-      \verb https://younglinux.info/algorithm/dichotomy
-      \endverb
-      \verb{url}
-      \verb https://younglinux.info/algorithm/dichotomy
-      \endverb
-      \keyw{python}
     \endentry
     \entry{doc}{online}{}
       \name{author}{1}{}{%
